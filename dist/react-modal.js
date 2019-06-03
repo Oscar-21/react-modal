@@ -1475,6 +1475,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	'use strict';
 
+	var React = __webpack_require__(2);
 	var DOM = __webpack_require__(15);
 	var div = DOM.div;
 	var focusManager = __webpack_require__(16);
